@@ -1,2 +1,1 @@
-# COO
-Exercícios-programa da disciplina de Computação Orientada a Objetos (ACH2003) do curso de Sistemas de Informação, EACH-USP.
+Exercícios-programa da disciplina ACH2003 - Computação Orientada a Objetos (COO), do 3º semestre do curso Bacharelado em Sistemas de Informação da EACH-USP (Escola de Artes, Ciências e Humanidades - Universidade de São Paulo), realizado em 2024.
