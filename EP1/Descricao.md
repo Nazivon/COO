@@ -1,0 +1,1 @@
+Exercício-programa 1 da disciplina de Computação Orientada a Objetos (ACH2003), se trata de um programa em Java que implementa o jogo Pong! Algumas classes foram fornecidas como parte da descrição do exercício.
