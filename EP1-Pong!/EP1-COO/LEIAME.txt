@@ -1,0 +1,10 @@
+Nome completo: Nazivon Santos do Nascimento
+Numero USP: 10266548
+
+Instrucoes para compilacao e execucao: Do modo conhecido; no diretorio src, em linha de comando (testado em Windows) -
+
+cd src
+javac Ball.java Player.java Score.java
+java Pong 
+
+(ou "java Pong 1 true" para rodar em safe mode)
