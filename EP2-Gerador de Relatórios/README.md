@@ -1,0 +1,1 @@
+Exercício-programa 2 da disciplina de Computação Orientada a Objetos (ACH2003). Se trata de um programa em Java que refatora o código de um "Gerador de Relatórios" com o emprego dos padrões de projeto "Strategy" e "Decorator", modernizando o código para que ele use o arcabouço de coleções de Java.
